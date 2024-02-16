@@ -1,4 +1,7 @@
-# GE 02 Technical Documentation
+---
+title: GE 02 Technical Documentation
+---
+
 ***
 ###### Logan Lassiter
 ###### Naomi Rodriguez
