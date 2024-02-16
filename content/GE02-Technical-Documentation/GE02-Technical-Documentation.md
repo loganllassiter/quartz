@@ -30,7 +30,8 @@ Naomi Rodriguez
 
 *This guide was built primarily on Mac OS, with python 3.11, and Django version 4.2*
 
-*Our team is using [PyCharm IDE](https://www.jetbrains.com/pycharm/), make sure you’ve been approved with your [student license]([_https://www.jetbrains.com/community/education/#students_](https://www.jetbrains.com/community/education/#students)) so you have full access to PyCharm’s features.*
+*Our team is using [PyCharm IDE](https://www.jetbrains.com/pycharm/), make sure you’ve been approved with
+your [student license]([_https://www.jetbrains.com/community/education/#students_](https://www.jetbrains.com/community/education/#students)) so you have full access to PyCharm’s features.*
 
 #### Additional Resources:
 
