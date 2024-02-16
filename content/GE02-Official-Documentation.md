@@ -306,7 +306,7 @@ In the *django_project* file
 	```
 	
 	<sup>The only changes made were the top of the document has `{% load static %}`
-	Line 21 is replaced with `<img src="{% static 'images/uccs_logo.gif' %}">`
+	Line 20 is replaced with `<img src="{% static 'images/uccs_logo.gif' %}">`
 	</sup>
 
 * Open http://localhost:8000 and your logo will be added to the Navbar
