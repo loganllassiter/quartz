@@ -33,6 +33,7 @@ Naomi Rodriguez
 *Our team is using [PyCharm IDE](https://www.jetbrains.com/pycharm/), make sure you’ve been approved with  
 your [student license]([_https://www.jetbrains.com/community/education/#students_](https://www.jetbrains.com/community/education/#students)) so you have full access to PyCharm’s features.*
 
+***
 #### Additional Resources:
 
 [Django Getting Started](https://www.w3schools.com/django/django_getstarted.php)
