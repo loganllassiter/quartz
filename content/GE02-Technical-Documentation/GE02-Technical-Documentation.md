@@ -43,8 +43,10 @@ Naomi Rodriguez
 [Check all installed Python packages with pip list/freeze](https://note.nkmk.me/en/python-pip-list-freeze/)
 
 
-<iframe width="650" height="315" src="https://www.youtube-nocookie.com/embed/QvTyqta3OJo?si=UHYsjZ1-2NAJkM3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://www.youtube-nocookie.com/embed/QvTyqta3OJo?si=UHYsjZ1-2NAJkM3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<iframe width="650" height="315" src="https://www.youtube-nocookie.com/embed/kqyfEz7TNI0?si=UVXXb8Rz11w2TOip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="400" height="200" src="https://www.youtube-nocookie.com/embed/kqyfEz7TNI0?si=UVXXb8Rz11w2TOip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ***
