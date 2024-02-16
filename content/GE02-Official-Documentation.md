@@ -322,7 +322,7 @@ In the *django_project* file
   
 	 ![](attachments/Pasted%20image%2020240215143104.png)
 
-Here is a guide on merging branches [link](https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/syncing-your-branch-in-github-desktop)
+Here is a GitHub guide on merging branches [link](https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/syncing-your-branch-in-github-desktop)
 * Or in the terminal:
 	```bash
 	git checkout main
