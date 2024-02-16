@@ -3,8 +3,11 @@ title: GE 02 Technical Documentation
 ---
 #### Authors
 Logan Lassiter
+
 Irving Reyes Bravo
+
 Naomi Rodriguez
+
 ***
 ## Table of Contents
 
