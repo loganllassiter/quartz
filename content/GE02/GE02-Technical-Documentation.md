@@ -6,7 +6,7 @@ Logan Lassiter
 
 Irving Reyes Bravo
 
-Naomi Rodriguez hello
+Naomi Rodriguez
 
 ***
 ## Table of Contents
