@@ -51,9 +51,9 @@ How are we hitting our sprint goals? Comfort level 1-10
 - [x] Get details on project friction points
 - UML model section - register models in admin.py
 - [x] Divide up sections for technical documentation
-- [ ] Finalize documentation formatting
+- [x] Finalize documentation formatting
 - [ ] Initialize documentation files in obsidian
 - [x] Create Scrum document
-- [ ] Decide on Kanban Board for project plan board
+- [x] Decide on Kanban Board for project plan board
 - [x] Make decision on old Team Repo
 - [ ] Send out additional markdown documentation/cheat sheets
