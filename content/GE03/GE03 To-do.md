@@ -56,7 +56,7 @@ How are we hitting our sprint goals? Comfort level 1-10
 | Member `Irving`     | 6                  | Issues with documentation. Feels well equipped to complete GE |
 
 - [x] Set up OBS studio
-- [ ] Get team set up with [[Setting up Quartz and Obsidian on Windows|Obsidian and Quartz]]
+- [ ] Get team set up with [Obsidian and Quartz](https://loganllassiter.github.io/quartz/Obsidian-Setup/Setting-up-Quartz-and-Obsidian-on-windows)
 - [x] Check Tech lead status
 - [x] Get details on project friction points
 - UML model section - register models in admin.py
