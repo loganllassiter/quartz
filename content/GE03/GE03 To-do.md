@@ -11,46 +11,49 @@ __Asynchronous team check in schedule:__ Every other day Mon-Fri / Weekends at l
 ### Agenda
 
 
-- [ ] Anything anyone needs to bring up before we get started?
+- [x] Anything anyone needs to bring up before we get started?
 
 Any Blockers/Personal Issues
 
-| Role                | Answer |
-| ------------------- | ------ |
-| Scrum Coach `Logan` |        |
-| Tech Lead `Naomi`   |        |
-| Member `Irving`     |        |
+| Role                | Answer                                                                 |
+| ------------------- | ---------------------------------------------------------------------- |
+| Scrum Coach `Logan` | N/A                                                                    |
+| Tech Lead `Naomi`   | other assignments but caught up                                        |
+| Member `Irving`     | other assignments / setting up env / a little unavailable this weekend |
 
 What did you get done yesterday?
 
-| Role                | Answer |
-| ------------------- | ------ |
-| Scrum Coach `Logan` |        |
-| Tech Lead `Naomi`   |        |
-| Member `Irving`     |        |
+| Role                | Answer                                                                |
+| ------------------- | --------------------------------------------------------------------- |
+| Scrum Coach `Logan` | Working on other assignments                                          |
+| Tech Lead `Naomi`   | Finished up to part 3 in GE03                                         |
+| Member `Irving`     | Finished Team role assignment before. Started creating student model. |
 
 What are your Goals for today
 
-| Roel                | Answer |
-| ------------------- | ------ |
-| Scrum Coach `Logan` |        |
-| Tech Lead `Naomi`   |        |
-| Member `Irving`     |        |
+| Roel                | Answer                                                         |
+| ------------------- | -------------------------------------------------------------- |
+| Scrum Coach `Logan` | Slight edits to documentation and working on other assignments |
+| Tech Lead `Naomi`   | Reformat a items on obsidian / work on other assignments       |
+| Member `Irving`     | finish quartz and obsidian set up.                             |
 
 How are we hitting our sprint goals? Comfort level 1-10
 
-| Role                | Comfort Level 1-10 | Answer |
-| ------------------- | ------------------ | ------ |
-| Scrum Coach `Logan` |                    |        |
-| Tech Lead `Naomi`   |                    |        |
-| Member `Irving`     |                    |        |
+| Role                | Comfort Level 1-10 | Answer                                                        |
+| ------------------- | ------------------ | ------------------------------------------------------------- |
+| Scrum Coach `Logan` | 7                  | Feeling pretty good                                           |
+| Tech Lead `Naomi`   | 10                 | Almost finished with everything                               |
+| Member `Irving`     | 6                  | Issues with documentation. Feels well equipped to complete GE |
 
+- [x] Set up OBS studio
 - [ ] Get team set up with [[Setting up Quartz and Obsidian on Windows|Obsidian and Quartz]]
-- [ ] Check Tech lead status
-- [ ] Get details on project friction points
-- [ ] Divide up sections for technical documentation
+- [x] Check Tech lead status
+- [x] Get details on project friction points
+- UML model section - register models in admin.py
+- [x] Divide up sections for technical documentation
+- [ ] Finalize documentation formatting
 - [ ] Initialize documentation files in obsidian
 - [x] Create Scrum document
 - [ ] Decide on Kanban Board for project plan board
-- [ ] Make decision on old Team Repo
+- [x] Make decision on old Team Repo
 - [ ] Send out additional markdown documentation/cheat sheets
