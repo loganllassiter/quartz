@@ -41,7 +41,7 @@ What did you get done yesterday?
 
 What are your Goals for today
 
-| Roel                | Answer                                                                             |     |
+| Role                | Answer                                                                             |     |
 | ------------------- | ---------------------------------------------------------------------------------- | --- |
 | Scrum Coach `Logan` | Slight edits to documentation / Create Kanban board / working on other assignments |     |
 | Tech Lead `Naomi`   | Reformat a items on obsidian / work on other assignments                           |     |
