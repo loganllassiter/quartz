@@ -1,9 +1,19 @@
+---
+title: GE03 Technical Documentation
+---
+#### Authors
+Logan Lassiter
 
-[[notes]]
+Irving Reyes Bravo
 
-![[IMG_37A194A8EFE6-1.jpeg]]
-# Its all unbalanced
+Naomi Rodriguez
 
-```python
-print
-```
+***
+## Table of Contents
+
+[[GE03 To-do|GE03 Sprint Document]]
+
+[[GE03 Kanban|GE03 Kanban]]
+
+***
+

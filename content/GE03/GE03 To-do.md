@@ -1,3 +1,6 @@
+---
+title: GE03 Sprint Document
+---
 #### Author
 ##### Logan Lassiter
 **Title:** GE03 - Due Mar 1, 2024
@@ -7,7 +10,7 @@ __Tech Lead:__ Naomi Rodriguez
 __Team Members:__ Irving Reyes Bravo
 __Scrum Synchronous Stand Up Meeting:__ Feb 24 @12pm
 __Asynchronous team check in schedule:__ Every other day Mon-Fri / Weekends at leisure
-
+[[GE03 Kanban]]
 ### Agenda
 
 
