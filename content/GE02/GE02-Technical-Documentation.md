@@ -8,8 +8,6 @@ Irving Reyes Bravo
 
 Naomi Rodriguez
 
-testing quartz sync
-
 ***
 ## Table of Contents
 
