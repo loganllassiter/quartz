@@ -6,7 +6,9 @@ Logan Lassiter
 
 Irving Reyes Bravo
 
-Naomi Rodriguez hello
+Naomi Rodriguez
+
+testing quartz sync
 
 ***
 ## Table of Contents

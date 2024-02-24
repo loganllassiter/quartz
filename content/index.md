@@ -1,9 +1,6 @@
 ---
-title: Note Hub
+title: Welcome to Quartz
 ---
-Quartz [documentation](https://quartz.jzhao.xyz) 
 
-[[GE02-Technical-Documentation|GE 02 Technical Documentation]]
-
-[[GE03-Technical-Documentation|GE 03 Technical Documentation]]
-
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
