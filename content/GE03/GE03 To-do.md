@@ -34,11 +34,11 @@ What did you get done yesterday?
 
 What are your Goals for today
 
-| Roel                | Answer                                                         |
-| ------------------- | -------------------------------------------------------------- |
-| Scrum Coach `Logan` | Slight edits to documentation and working on other assignments |
-| Tech Lead `Naomi`   | Reformat a items on obsidian / work on other assignments       |
-| Member `Irving`     | finish quartz and obsidian set up.                             |
+| Roel                | Answer                                                                             |     |
+| ------------------- | ---------------------------------------------------------------------------------- | --- |
+| Scrum Coach `Logan` | Slight edits to documentation / Create Kanban board / working on other assignments |     |
+| Tech Lead `Naomi`   | Reformat a items on obsidian / work on other assignments                           |     |
+| Member `Irving`     | finish quartz and obsidian set up.                                                 |     |
 
 How are we hitting our sprint goals? Comfort level 1-10
 
