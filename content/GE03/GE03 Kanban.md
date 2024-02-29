@@ -6,28 +6,28 @@ kanban-plugin: basic
 
 ## To-do
 
-- [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
-- [ ] **Send out additional obsidian and markdown documentation/cheat sheets**<br>`- Logan`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: TBD<br><br>`- Logan`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: TBD<br><br>`- Naomi`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: TBD<br><br>`- Irving`
 - [ ] **Complete Team Roles Documents**<br>`- Team`
 
 
 ## In Progress
 
-- [ ] **Assign documentation sections to members**<br>` - Team`
-- [ ] **Create Documentation Sections**<br>`- Naomi`
-- [ ] **Get team setup with Obsidian and Quartz**<br>`- Logan`
 - [ ] **Complete GE03**<br>`- Logan`
-- [ ] **Complete GE03**<br>`- Naomi`
-- [ ] **Complete GE03**<br>`- Irving`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: TBD<br><br>`- Naomi`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: TBD<br><br>`- Irving`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: TBD<br><br>`- Logan`
 
 
 ## Complete
 
 - [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE03 <br>`- Team`
+- [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
+- [ ] **Send out additional obsidian and markdown documentation/cheat sheets**<br>`- Logan`
 - [ ] **Create GE03 Kanban**<br>`- Logan`
+- [ ] **Create Documentation Sections**<br>`- Naomi`
+- [ ] **Complete GE03**<br>`- Naomi`
+- [ ] **Complete GE03**<br>`- Irving`
+- [ ] **Assign documentation sections to members**<br>` - Team`
+- [ ] **Get team setup with Obsidian and Quartz**<br>`- Logan`
 
 
 ## Reviewed by Tech Lead
