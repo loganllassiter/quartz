@@ -14,11 +14,11 @@ kanban-plugin: basic
 - [ ] **Complete GE03**<br>`- Logan`
 - [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.7<br><br>`- Naomi`
 - [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.3-3.6<br><br>`- Irving`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
 
 
 ## Complete
 
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
 - [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE03 <br>`- Team`
 - [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
 - [ ] **Send out additional obsidian and markdown documentation/cheat sheets**<br>`- Logan`

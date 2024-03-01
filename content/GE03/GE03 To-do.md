@@ -56,14 +56,14 @@ How are we hitting our sprint goals? Comfort level 1-10
 | Member `Irving`     | 6                  | Issues with documentation. Feels well equipped to complete GE |
 
 - [x] Set up OBS studio
-- [ ] Get team set up with [Obsidian and Quartz](https://loganllassiter.github.io/quartz/Obsidian-Setup/Setting-up-Quartz-and-Obsidian-on-windows)
+- [x] Get team set up with [Obsidian and Quartz](https://loganllassiter.github.io/quartz/Obsidian-Setup/Setting-up-Quartz-and-Obsidian-on-windows)
 - [x] Check Tech lead status
 - [x] Get details on project friction points
 - UML model section - register models in admin.py
 - [x] Divide up sections for technical documentation
 - [x] Finalize documentation formatting
-- [ ] Initialize documentation files in obsidian
+- [x] Initialize documentation files in obsidian
 - [x] Create Scrum document
 - [x] Decide on Kanban Board for project plan board
 - [x] Make decision on old Team Repo
-- [ ] Send out additional markdown documentation/cheat sheets
+- [x] Send out additional markdown documentation/cheat sheets
