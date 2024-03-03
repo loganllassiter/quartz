@@ -11,10 +11,8 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] **Complete GE03**<br>`- Logan`
 - [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.7<br><br>`- Naomi`
 - [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.3-3.6<br><br>`- Irving`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
 
 
 ## Complete
@@ -24,8 +22,14 @@ kanban-plugin: basic
 - [ ] **Send out additional obsidian and markdown documentation/cheat sheets**<br>`- Logan`
 - [ ] **Create GE03 Kanban**<br>`- Logan`
 - [ ] **Complete GE03**<br>`- Naomi`
+- [ ] **Complete GE03**<br>`- Logan`
 - [ ] **Complete GE03**<br>`- Irving`
 - [ ] **Get team setup with Obsidian and Quartz**<br>`- Logan`
+
+
+## Waiting For Review By Tech Lead
+
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
 
 
 ## Reviewed by Tech Lead
