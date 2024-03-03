@@ -19,6 +19,16 @@ Naomi Rodriguez
 
 [[3.2|3.2 Create SuperUser and Login to Admin Panel]]  `Logan`
 
+[[3.3|3.3 Create a Student Model ]] `Irving & Logan`
+
+[[3.4|3.4 Adding a Student]] `Irving`
+
+[[3.5|3.5 Overriding in Django]] `Irving`
+
+[[3.6|3.6 Delete a Student]] `Irving`
+
+[[3.7|3.7 UML Model]] `Naomi`
+
 
 ***
 
