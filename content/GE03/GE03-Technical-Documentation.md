@@ -9,6 +9,9 @@ Irving Reyes Bravo
 Naomi Rodriguez
 
 ***
+## [Official Site Link](https://loganllassiter.github.io/quartz/GE03/GE03-Technical-Documentation)
+
+***
 ## Table of Contents
 
 [[GE03 To-do|GE03 Sprint Document]]
