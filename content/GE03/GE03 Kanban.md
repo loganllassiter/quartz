@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## To-do
 
-- [ ] **Complete Team Roles Documents**<br>`- Team`
 
 
 ## In Progress
 
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.7<br><br>`- Naomi`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.3-3.6<br><br>`- Irving`
+- [ ] **Complete Team Roles Documents**<br>`- Logan`
+- [ ] **Complete Team Roles Documents**<br>`- Irving`
+- [ ] **Complete Team Roles Documents**<br>`- Naomi`
 
 
 ## Complete
@@ -29,7 +29,6 @@ kanban-plugin: basic
 
 ## Waiting For Review By Tech Lead
 
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
 
 
 ## Reviewed by Tech Lead
@@ -37,6 +36,9 @@ kanban-plugin: basic
 - [ ] **Finalize documentation formatting**<br>*- Documentation will reflect similar style to section 2.1 from GE02*<br>`- Naomi`
 - [ ] **Assign documentation sections to members**<br>` - Team`
 - [ ] **Create Documentation Sections**<br>`- Naomi`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.3-3.6<br><br>`- Irving`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.7<br><br>`- Naomi`
 
 
 

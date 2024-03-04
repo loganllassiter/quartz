@@ -14,9 +14,9 @@ Naomi Rodriguez
 ***
 ## Table of Contents
 
-[[GE03 To-do|GE03 Sprint Document]]
+[[GE03 To-do|GE03 Sprint Document]] `Logan`
 
-[[GE03 Kanban|GE03 Kanban]]
+[[GE03 Kanban|GE03 Kanban]] `Logan`
 
 [[3.1|3.1 Setup Version Control and Database Migration]] `Logan`
 
