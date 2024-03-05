@@ -10,11 +10,11 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] **Complete Team Roles Document**<br>`- Irving`
 
 
 ## Complete
 
+- [ ] **Complete Team Roles Document**<br>`- Irving`
 - [ ] **Complete Team Roles Document**<br>`- Naomi`
 - [ ] **Complete Team Roles Document**<br>`- Logan`
 - [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE03 <br>`- Team`
