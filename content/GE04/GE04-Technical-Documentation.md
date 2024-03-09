@@ -14,25 +14,28 @@ Naomi Rodriguez
 ***
 ## Table of Contents
 
-[[GE03 To-do|GE03 Sprint Document]] `Logan`
+[[GE04 To-do|GE04 Sprint Document]] `Naomi`
 
-[[GE03 Kanban|GE03 Kanban]] `Logan`
+[[GE04 Kanban|GE04 Kanban]] `Naomi`
 
-[[3.1|3.1 Setup Version Control and Database Migration]] `Logan`
+[[4.1|4.1 Setup Bootstrap]] `Logan`
 
-[[3.2|3.2 Create SuperUser and Login to Admin Panel]]  `Logan`
+[[4.2|4.2 Style]]  `Logan`
 
-[[3.3|3.3 Create a Student Model ]] `Irving & Logan`
+[[4.3|4.3 Homepage ]] `Logan`
 
-[[3.4|3.4 Adding a Student]] `Irving`
+[[4.4|4.4 Portfolio Details]] `Irving`
 
-[[3.5|3.5 Overriding in Django]] `Irving`
+[[4.5|4.5 Create/Update Project Form]] `Irving`
 
-[[3.6|3.6 Delete a Student]] `Irving`
+[[4.6|4.6 Delete Form]] `Irving`
 
-[[3.7|3.7 UML Model]] `Naomi`
+[[4.7|4.7 Student List]] `Naomi`
+
+[[4.8|4.8 Student Detail Page]] `Naomi`
+
+[[4.9|4.9 Portfolio Form Update]] `Naomi`
 
 
 ***
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fecqLJmySus?si=F9tmkIXkgt8HQHdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

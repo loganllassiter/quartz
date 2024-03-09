@@ -6,39 +6,37 @@ kanban-plugin: basic
 
 ## To-do
 
+- [ ] **Complete Team Roles Document**<br>`- Logan`
+- [ ] **Complete Team Roles Document**<br>`- Naomi`
+- [ ] **Complete Team Roles Document**<br>`- Irving`
+- [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
+- [ ] **Complete GE04**<br>`- Naomi`
+- [ ] **Complete GE04**<br>`- Logan`
+- [ ] **Complete GE04**<br>`- Irving`
 
 
 ## In Progress
 
+- [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE04 <br>`- Team`
+- [ ] **Create GE04 Kanban**<br>`- Naomi`
 
 
 ## Complete
 
-- [ ] **Complete Team Roles Document**<br>`- Irving`
-- [ ] **Complete Team Roles Document**<br>`- Naomi`
-- [ ] **Complete Team Roles Document**<br>`- Logan`
-- [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE03 <br>`- Team`
-- [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
-- [ ] **Send out additional obsidian and markdown documentation/cheat sheets**<br>`- Logan`
-- [ ] **Create GE03 Kanban**<br>`- Logan`
-- [ ] **Complete GE03**<br>`- Naomi`
-- [ ] **Complete GE03**<br>`- Logan`
-- [ ] **Complete GE03**<br>`- Irving`
-- [ ] **Get team setup with Obsidian and Quartz**<br>`- Logan`
+- [ ] **Assign documentation sections to members**<br>` - Team`
 
 
 ## Waiting For Review By Tech Lead
 
+- [ ] **Finalize documentation formatting**<br>*- Documentation will reflect similar style to the last two GE's*<br>`- Irving`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 4.1, 4.2, & 4.3<br><br>`- Logan`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 4.4, 4.5, & 4.6<br><br>`- Irving`
+- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 4.7, 4.8, & 4.9<br><br>`- Naomi`
 
 
 ## Reviewed by Tech Lead
 
-- [ ] **Finalize documentation formatting**<br>*- Documentation will reflect similar style to section 2.1 from GE02*<br>`- Naomi`
-- [ ] **Assign documentation sections to members**<br>` - Team`
-- [ ] **Create Documentation Sections**<br>`- Naomi`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.1 & 3.2<br><br>`- Logan`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.3-3.6<br><br>`- Irving`
-- [ ] **Complete Technical Documentation Sections**<br>Assigned Sections: 3.7<br><br>`- Naomi`
+- [ ] **Create Documentation Sections**<br>`- Irving`
 
 
 

@@ -11,5 +11,7 @@ Quartz [documentation](https://quartz.jzhao.xyz)
 
 [[GE03-Technical-Documentation|GE 03 Technical Documentation]]
 
+[[GE04-Technical-Documentation|GE 04 Technical Documentation]]
+
 
 ---
