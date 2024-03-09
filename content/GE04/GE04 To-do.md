@@ -62,3 +62,4 @@ How are we hitting our sprint goals? Comfort level 1-10
 - [ ] Initialize documentation files in obsidian
 - [ ] Create Scrum document
 - [ ] Decide on Kanban Board for project plan board
+- [ ] Set up automatic updates (?)

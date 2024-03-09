@@ -9,7 +9,7 @@ Irving Reyes Bravo
 Naomi Rodriguez
 
 ***
-## [Official Site Link](https://loganllassiter.github.io/quartz/GE03/GE03-Technical-Documentation)
+## [Official Site Link](https://loganllassiter.github.io/quartz/GE04/GE04-Technical-Documentation)
 
 ***
 ## Table of Contents
