@@ -9,21 +9,21 @@ kanban-plugin: basic
 - [ ] **Complete Team Roles Document**<br>`- Logan`
 - [ ] **Complete Team Roles Document**<br>`- Naomi`
 - [ ] **Complete Team Roles Document**<br>`- Irving`
-- [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
-- [ ] **Complete GE04**<br>`- Naomi`
-- [ ] **Complete GE04**<br>`- Logan`
-- [ ] **Complete GE04**<br>`- Irving`
 
 
 ## In Progress
 
-- [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE04 <br>`- Team`
-- [ ] **Create GE04 Kanban**<br>`- Naomi`
+- [ ] **Complete GE04**<br>`- Logan`
+- [ ] **Complete GE04**<br>`- Irving`
+- [ ] **Complete GE04**<br>`- Naomi`
+- [ ] **Upload scrum meeting video to YouTube and share link**<br>`- Logan`
 
 
 ## Complete
 
 - [ ] **Assign documentation sections to members**<br>` - Team`
+- [ ] __Scrum Meeting__<br><br>Conduct scrum meeting for GE04 <br>`- Team`
+- [ ] **Create GE04 Kanban**<br>`- Naomi`
 
 
 ## Waiting For Review By Tech Lead
